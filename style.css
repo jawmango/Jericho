@@ -80,9 +80,11 @@ width: 100%;
 input[type=submit]{
 background-color: green;
 color: white;
+padding: 3px;
 }
 
 input[type=reset]{
 background-color: red;
 color: white;
+padding: 3px;
 }
